@@ -4,3 +4,5 @@ Notebook/
 Dataset/
 Source/
 yolo11n.pt
+__pycache__
+.ipynb_checkpoints
