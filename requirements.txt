@@ -1,0 +1,10 @@
+fastapi==0.116.1
+uvicorn==0.35.0
+python-multipart==0.0.20
+pillow==11.1.0
+python-jose==3.3.1
+passlib==1.7.4
+pydantic==2.11.5
+starlette==0.47.1
+python-dotenv==1.1.0
+httpx==0.28.1
