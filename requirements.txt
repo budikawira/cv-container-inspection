@@ -1,3 +1,4 @@
+# Core API and Auth
 fastapi==0.116.1
 uvicorn==0.35.0
 python-multipart==0.0.20
@@ -8,3 +9,13 @@ pydantic==2.11.5
 starlette==0.47.1
 python-dotenv==1.1.0
 httpx==0.28.1
+
+# ML and CV
+torch>=2.0.0
+opencv-python>=4.9.0.80
+matplotlib>=3.8.0
+ultralytics>=8.1.0
+
+# Utilities
+pyyaml>=6.0
+kagglehub>=0.0.1
