@@ -86,7 +86,7 @@ Source code is in ./Deploy folder
 
 2. Run the server
    ```bash
-   uvicorn main.app:app --host 0.0.0.0 --port 8000 --reload
+   uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 
 ## 🧪 Testing with Swagger UI
 After starting the server, open your browser and go to:
